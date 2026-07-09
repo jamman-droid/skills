@@ -1,0 +1,12 @@
+# Render artifacts (visual plan reviews)
+.stage/
+
+# Local skill installs + third-party reference copies — never published.
+# Canonical skill sources live in skills/ once built.
+.claude/skills/
+
+# Internal planning / build docs — kept local, never published.
+tasks/
+
+node_modules/
+.DS_Store

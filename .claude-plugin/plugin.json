@@ -1,0 +1,13 @@
+{
+  "name": "planproper",
+  "skills": [
+    "./skills/planning/planproper",
+    "./skills/planning/press",
+    "./skills/planning/slice",
+    "./skills/building/inspect",
+    "./skills/design/coin",
+    "./skills/design/dig",
+    "./skills/workshop/stage",
+    "./skills/workshop/relay"
+  ]
+}
